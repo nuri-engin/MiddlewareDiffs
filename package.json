@@ -7,8 +7,8 @@
   "private": true,
   "dependencies": {
     "eslint-loader": "^2.1.1",
-    "react": "next",
-    "react-dom": "next",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.3",
