@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "eslint-loader": "^2.1.1",
+    "eslint-loader": "^4.0.2",
     "react": "next",
     "react-dom": "next",
     "react-redux": "^6.0.0",
